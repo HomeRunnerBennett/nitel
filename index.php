@@ -160,7 +160,7 @@
             <div class="team-grid">
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Webster Mbekeani">
+                        <img src="img/meet/webster.png" alt="Webster Mbekeani">
                     </div>
                     <div class="member-info">
                         <h3>Webster Mbekeani</h3>
@@ -170,7 +170,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Presse Mhango">
+                        <img src="img/meet/presse.jpg" alt="Presse Mhango">
                     </div>
                     <div class="member-info">
                         <h3>Presse Mhango</h3>
@@ -180,7 +180,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Austine Mzumara">
+                        <img src="img/meet/austine.jpg" alt="Austine Mzumara">
                     </div>
                     <div class="member-info">
                         <h3>Austine Mzumara</h3>
@@ -190,7 +190,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Godwin Chimseu">
+                        <img src="img/meet/godwin.jpg" alt="Godwin Chimseu">
                     </div>
                     <div class="member-info">
                         <h3>Godwin Chimseu</h3>
@@ -204,7 +204,7 @@
             <div class="team-grid">
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Emmanuel Munthali">
+                        <img src="img/meet/gayo.jpg" alt="Emmanuel Munthali">
                     </div>
                     <div class="member-info">
                         <h3>Emmanuel Munthali</h3>
@@ -214,7 +214,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Peter Mangani">
+                        <img src="img/meet/peter.jpg" alt="Peter Mangani">
                     </div>
                     <div class="member-info">
                         <h3>Peter Mangani</h3>
@@ -224,7 +224,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Ivor Otomani">
+                        <img src="img/meet/ivor.jpeg" alt="Ivor Otomani">
                     </div>
                     <div class="member-info">
                         <h3>Ivor Otomani</h3>
@@ -234,7 +234,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Rahim Isaac Katungwe">
+                        <img src="img/meet/rahim.jpeg" alt="Rahim Isaac Katungwe">
                     </div>
                     <div class="member-info">
                         <h3>Rahim Isaac Katungwe</h3>
@@ -244,7 +244,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Tiyamike Jumbe">
+                        <img src="img/meet/tiya.jpeg" alt="Tiyamike Jumbe">
                     </div>
                     <div class="member-info">
                         <h3>Tiyamike Jumbe</h3>
@@ -254,7 +254,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Gomezgeka Phiri">
+                        <img src="img/meet/gomezgeka.jpeg" alt="Gomezgeka Phiri">
                     </div>
                     <div class="member-info">
                         <h3>Gomezgeka Phiri</h3>
@@ -264,7 +264,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Menard Msukwa">
+                        <img src="img/meet/menard.jpeg" alt="Menard Msukwa">
                     </div>
                     <div class="member-info">
                         <h3>Menard Msukwa</h3>
@@ -274,7 +274,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Edward Guzani">
+                        <img src="img/meet/edward.jpeg" alt="Edward Guzani">
                     </div>
                     <div class="member-info">
                         <h3>Edward Guzani</h3>
@@ -284,7 +284,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Sylvester Shumba">
+                        <img src="img/meet/shumba.jpeg" alt="Sylvester Shumba">
                     </div>
                     <div class="member-info">
                         <h3>Sylvester Shumba</h3>
@@ -294,7 +294,7 @@
                 </div>
                 <div class="team-member fade-in">
                     <div class="member-img">
-                        <img src="/api/placeholder/300/300" alt="Tayamika Jumbe">
+                        <img src="img/meet/taya.png" alt="Tayamika Jumbe">
                     </div>
                     <div class="member-info">
                         <h3>Tayamika Jumbe</h3>
